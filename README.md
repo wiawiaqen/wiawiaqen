@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nghĩa, also known as Wia
+- 👀 I’m interested in Management Information System, Data Analytics and Machine Learning
+- 🌱 I’m currently learning NLP and its business application
